@@ -1,4 +1,4 @@
 HelloWorld
 ==========
 
-This is a dummy hello world program
+My intent is to add hello world for most of the languages and technologies.
